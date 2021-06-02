@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SwiftyMessageKit
 //
-//  Created by cdzhangshuangyu on 03/19/2021.
-//  Copyright (c) 2021 cdzhangshuangyu. All rights reserved.
+//  Created by DanielZSY on 03/19/2021.
+//  Copyright (c) 2021 DanielZSY. All rights reserved.
 //
 
 import UIKit

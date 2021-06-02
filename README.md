@@ -1,6 +1,6 @@
 # SwiftyMessageKit
 
-[![CI Status](https://img.shields.io/travis/cdzhangshuangyu/SwiftyMessageKit.svg?style=flat)](https://travis-ci.org/cdzhangshuangyu/SwiftyMessageKit)
+[![CI Status](https://img.shields.io/travis/DanielZSY/SwiftyMessageKit.svg?style=flat)](https://travis-ci.org/DanielZSY/SwiftyMessageKit)
 [![Version](https://img.shields.io/cocoapods/v/SwiftyMessageKit.svg?style=flat)](https://cocoapods.org/pods/SwiftyMessageKit)
 [![License](https://img.shields.io/cocoapods/l/SwiftyMessageKit.svg?style=flat)](https://cocoapods.org/pods/SwiftyMessageKit)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftyMessageKit.svg?style=flat)](https://cocoapods.org/pods/SwiftyMessageKit)
@@ -22,7 +22,7 @@ pod 'SwiftyMessageKit'
 
 ## Author
 
-cdzhangshuangyu, cdzhangshuangyu@163.com
+DanielZSY, DanielZSY@126.com
 
 ## License
 

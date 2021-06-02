@@ -6,7 +6,7 @@
 # To learn more about a Podspec see https://guides.cocoapods.org/syntax/podspec.html
 #
 # 1. new code update github, Release new version
-# 2. local not code : pod repo add SwiftyMessageKit  https://github.com/cdzhangshuangyu/SwiftyMessageKit.git
+# 2. local not code : pod repo add SwiftyMessageKit  https://github.com/DanielZSY/SwiftyMessageKit.git
 #    local uodate code: cd ~/.cocoapods/repos/SwiftyMessageKit. Then execute: pod repo update SwiftyMessageKit
 # 3. pod repo push SwiftyMessageKit SwiftyMessageKit.podspec --allow-warnings --sources='https://github.com/CocoaPods/Specs.git'
 # 4. pod trunk push SwiftyMessageKit.podspec --allow-warnings
@@ -22,10 +22,10 @@ Pod::Spec.new do |s|
   Common SwiftyMessageKit
   DESC
   
-  s.homepage         = 'https://github.com/cdzhangshuangyu'
+  s.homepage         = 'https://github.com/DanielZSY'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'cdzhangshuangyu' => 'cdzhangshuangyu@163.com' }
-  s.source           = { :git => 'https://github.com/cdzhangshuangyu/SwiftyMessageKit.git', :tag => s.version.to_s }
+  s.author           = { 'DanielZSY' => 'DanielZSY@126.com' }
+  s.source           = { :git => 'https://github.com/DanielZSY/SwiftyMessageKit.git', :tag => s.version.to_s }
   
   s.swift_versions   = "5"
   s.ios.deployment_target = '10.0'

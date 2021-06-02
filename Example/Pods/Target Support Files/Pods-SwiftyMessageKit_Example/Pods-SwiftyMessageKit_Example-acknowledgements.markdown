@@ -840,7 +840,7 @@ THE SOFTWARE.
 
 MIT License
 
-Copyright (c) 2021 cdzhangshuangyu
+Copyright (c) 2021 DanielZSY
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -889,7 +889,7 @@ SOFTWARE.
 
 ## SwiftyMessageKit
 
-Copyright (c) 2021 cdzhangshuangyu <cdzhangshuangyu@163.com>
+Copyright (c) 2021 DanielZSY <DanielZSY@126.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
