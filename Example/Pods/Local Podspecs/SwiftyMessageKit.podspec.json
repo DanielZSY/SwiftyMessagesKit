@@ -1,0 +1,78 @@
+{
+  "name": "SwiftyMessageKit",
+  "version": "1.0.0",
+  "summary": "SwiftyMessageKit",
+  "module_name": "SwiftyMessageKit",
+  "description": "Common SwiftyMessageKit",
+  "homepage": "https://github.com/cdzhangshuangyu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cdzhangshuangyu": "cdzhangshuangyu@163.com"
+  },
+  "source": {
+    "git": "https://github.com/cdzhangshuangyu/SwiftyMessageKit.git",
+    "tag": "1.0.0"
+  },
+  "swift_versions": "5",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "5.0"
+  },
+  "static_framework": true,
+  "source_files": "SwiftyMessageKit/Classes/**/*.{h,m,swift}",
+  "resources": [
+    "SwiftyMessageKit/Assets/**/*.strings"
+  ],
+  "ios": {
+    "resource_bundles": {
+      "SwiftyMessageKit": "SwiftyMessageKit/Assets/Media.xcassets",
+      "SwiftyMessageCallKit": "SwiftyMessageKit/Assets/Call.bundle",
+      "KKMuteSwitchListener": "SwiftyMessageKit/Assets/KKMuteSwitchListener.bundle"
+    }
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "CoreLocation",
+    "SystemConfiguration",
+    "CoreTelephony",
+    "Security",
+    "AVKit",
+    "MapKit"
+  ],
+  "libraries": [
+    "z",
+    "sqlite3",
+    "c++"
+  ],
+  "dependencies": {
+    "AgoraRtm_iOS": [
+
+    ],
+    "AgoraRtcEngine_iOS": [
+
+    ],
+    "OneSignal": [
+      ">= 2.11.2",
+      "< 3.0"
+    ],
+    "SVGAPlayer": [
+
+    ],
+    "Starscream": [
+
+    ],
+    "SwiftBasicKit": [
+
+    ],
+    "AlamofireNetworkActivityIndicator": [
+
+    ]
+  },
+  "swift_version": "5"
+}

@@ -1,0 +1,11 @@
+
+xcassets:
+  inputs: ../../Assets/Media.xcassets
+  outputs:
+    - templateName: swift5
+      output: ../../Classes/SwiftGen/ZAssets.swift
+strings:
+  inputs: ../../Assets/en.lproj
+  outputs:
+    - templateName: structured-swift5
+      output: ../../Classes/SwiftGen/ZStrings.swift

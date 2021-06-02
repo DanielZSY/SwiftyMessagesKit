@@ -1,0 +1,6 @@
+framework module SwiftyMessageKit {
+  umbrella header "SwiftyMessageKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
